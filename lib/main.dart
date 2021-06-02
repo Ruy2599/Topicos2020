@@ -27,7 +27,7 @@ class FormSplash extends State<Splash>{
       home: SplashScreen(
         seconds: 5,
         navigateAfterSeconds: Personajes(),
-        title: Text("Bienvenido", 
+        title: Text("Bienvenido...", 
         style: TextStyle(
           fontSize: 20, 
           color: Colors.white,
